@@ -1,0 +1,501 @@
+Position,Track Name,Artist,Genre,Streams,Date,Day,Region
+1,Track 107,Artist 44,Country,4759212,2024-06-25,Tuesday,Germany
+1,Track 163,Artist 55,EDM,2820961,2024-06-03,Monday,Global
+1,Track 103,Artist 8,Rock,1881076,2024-06-07,Friday,Canada
+1,Track 30,Artist 99,Country,3890466,2024-06-11,Tuesday,Japan
+2,Track 196,Artist 40,R&B,3350655,2024-06-23,Sunday,UK
+3,Track 76,Artist 3,Rock,3820259,2024-06-23,Sunday,Germany
+3,Track 142,Artist 91,Country,4087697,2024-06-15,Saturday,Japan
+4,Track 45,Artist 15,Pop,716259,2024-06-26,Wednesday,Brazil
+4,Track 118,Artist 83,Pop,2658094,2024-06-24,Monday,Brazil
+5,Track 108,Artist 33,Hip Hop,1187079,2024-07-01,Monday,France
+5,Track 9,Artist 74,Jazz,1421870,2024-06-08,Saturday,India
+5,Track 126,Artist 91,R&B,3014825,2024-06-18,Tuesday,France
+8,Track 119,Artist 73,Rock,3679192,2024-06-25,Tuesday,UK
+8,Track 103,Artist 87,Rock,4998103,2024-06-17,Monday,UK
+9,Track 177,Artist 77,Pop,4441911,2024-06-15,Saturday,Germany
+9,Track 162,Artist 8,Rock,2420502,2024-06-23,Sunday,United States
+10,Track 102,Artist 70,Rock,4471165,2024-06-17,Monday,Germany
+10,Track 20,Artist 89,Rock,1750357,2024-06-04,Tuesday,Japan
+11,Track 127,Artist 57,Rock,1174795,2024-06-18,Tuesday,Australia
+11,Track 44,Artist 85,Blues,3332158,2024-06-05,Wednesday,Australia
+12,Track 42,Artist 24,Jazz,1888643,2024-06-05,Wednesday,France
+12,Track 58,Artist 26,Blues,1736094,2024-06-10,Monday,Global
+12,Track 30,Artist 50,Jazz,2094496,2024-06-17,Monday,Germany
+12,Track 147,Artist 50,Jazz,2459263,2024-06-08,Saturday,Canada
+12,Track 131,Artist 52,Blues,4694957,2024-06-20,Thursday,Global
+13,Track 57,Artist 23,EDM,4844944,2024-06-14,Friday,France
+13,Track 62,Artist 28,Pop,3460298,2024-07-01,Monday,Global
+13,Track 74,Artist 31,R&B,3026239,2024-06-25,Tuesday,United States
+13,Track 190,Artist 76,Hip Hop,2507243,2024-06-20,Thursday,India
+14,Track 95,Artist 12,Hip Hop,4993236,2024-06-28,Friday,India
+14,Track 116,Artist 45,Jazz,723725,2024-06-27,Thursday,Canada
+14,Track 68,Artist 65,Pop,4598102,2024-06-21,Friday,Germany
+15,Track 12,Artist 29,Pop,3815709,2024-06-10,Monday,Australia
+15,Track 56,Artist 8,Jazz,1011349,2024-06-10,Monday,UK
+17,Track 14,Artist 33,EDM,4507482,2024-07-01,Monday,United States
+17,Track 87,Artist 87,Jazz,939273,2024-06-25,Tuesday,UK
+17,Track 41,Artist 88,Pop,4041334,2024-06-21,Friday,Australia
+18,Track 66,Artist 48,Country,1780428,2024-06-22,Saturday,France
+19,Track 176,Artist 52,EDM,2995056,2024-06-08,Saturday,France
+19,Track 59,Artist 76,Country,2347317,2024-06-18,Tuesday,Global
+19,Track 74,Artist 91,Hip Hop,2871613,2024-06-08,Saturday,France
+20,Track 10,Artist 8,Pop,3593195,2024-06-15,Saturday,Germany
+21,Track 129,Artist 48,Jazz,2477849,2024-06-13,Thursday,Canada
+21,Track 28,Artist 63,Jazz,4220870,2024-06-22,Saturday,United States
+21,Track 149,Artist 77,Pop,833377,2024-06-08,Saturday,Australia
+21,Track 169,Artist 78,Blues,1761422,2024-06-24,Monday,UK
+21,Track 56,Artist 98,EDM,2575890,2024-06-27,Thursday,Australia
+23,Track 84,Artist 22,Blues,4359572,2024-06-01,Saturday,UK
+24,Track 56,Artist 98,Rock,3323559,2024-06-05,Wednesday,United States
+25,Track 63,Artist 61,Jazz,3914666,2024-06-16,Sunday,India
+25,Track 72,Artist 80,Jazz,1496659,2024-06-18,Tuesday,Brazil
+26,Track 64,Artist 10,EDM,4217250,2024-06-15,Saturday,Japan
+26,Track 36,Artist 20,Rock,1147307,2024-06-08,Saturday,Germany
+26,Track 136,Artist 29,Pop,2453174,2024-06-22,Saturday,Global
+26,Track 198,Artist 38,Pop,1169343,2024-06-08,Saturday,India
+26,Track 152,Artist 43,Hip Hop,1341919,2024-06-17,Monday,France
+27,Track 47,Artist 70,Pop,2964291,2024-06-20,Thursday,UK
+28,Track 67,Artist 23,Rock,2726893,2024-06-04,Tuesday,Global
+28,Track 40,Artist 85,Pop,4544897,2024-06-07,Friday,India
+28,Track 144,Artist 90,Pop,2778526,2024-06-09,Sunday,Brazil
+29,Track 39,Artist 71,EDM,4927268,2024-06-27,Thursday,Canada
+29,Track 108,Artist 82,Country,4334546,2024-06-08,Saturday,United States
+30,Track 14,Artist 17,R&B,4031273,2024-06-09,Sunday,Japan
+30,Track 60,Artist 34,Pop,2159427,2024-06-22,Saturday,Canada
+30,Track 142,Artist 53,Pop,1281895,2024-06-01,Saturday,India
+31,Track 145,Artist 39,Country,1214549,2024-06-26,Wednesday,India
+31,Track 70,Artist 40,Country,2608926,2024-06-15,Saturday,India
+31,Track 96,Artist 57,EDM,4841740,2024-06-21,Friday,France
+32,Track 102,Artist 2,Rock,2718439,2024-06-03,Monday,Japan
+32,Track 96,Artist 71,Country,1360585,2024-06-16,Sunday,Japan
+32,Track 90,Artist 72,Rock,2793928,2024-06-16,Sunday,Germany
+32,Track 12,Artist 94,Jazz,4353935,2024-06-26,Wednesday,Japan
+33,Track 167,Artist 20,Pop,4655117,2024-06-26,Wednesday,Global
+33,Track 22,Artist 40,Pop,3659815,2024-07-01,Monday,UK
+33,Track 174,Artist 52,Rock,1884495,2024-06-22,Saturday,France
+33,Track 116,Artist 60,EDM,4839930,2024-06-03,Monday,UK
+33,Track 95,Artist 75,Rock,1742300,2024-06-27,Thursday,Canada
+33,Track 6,Artist 80,R&B,1778275,2024-06-07,Friday,India
+33,Track 156,Artist 87,Jazz,4175660,2024-06-28,Friday,Global
+33,Track 18,Artist 98,Blues,4968663,2024-06-16,Sunday,Brazil
+34,Track 192,Artist 54,Pop,1973375,2024-06-11,Tuesday,India
+35,Track 30,Artist 13,Pop,2469645,2024-06-16,Sunday,Japan
+35,Track 97,Artist 49,EDM,1173185,2024-06-15,Saturday,Japan
+35,Track 3,Artist 86,Blues,3011370,2024-06-17,Monday,United States
+36,Track 150,Artist 52,Jazz,3536646,2024-06-29,Saturday,India
+36,Track 60,Artist 70,Hip Hop,2322586,2024-06-15,Saturday,Global
+36,Track 103,Artist 86,Country,1300148,2024-06-03,Monday,Brazil
+36,Track 114,Artist 98,Pop,1144961,2024-06-12,Wednesday,Australia
+37,Track 87,Artist 15,Country,4428648,2024-06-28,Friday,United States
+37,Track 32,Artist 35,Jazz,4271484,2024-06-15,Saturday,India
+37,Track 173,Artist 42,EDM,2487295,2024-06-25,Tuesday,Germany
+37,Track 37,Artist 73,Country,3862022,2024-06-06,Thursday,United States
+37,Track 58,Artist 83,EDM,1749813,2024-06-18,Tuesday,Germany
+37,Track 192,Artist 87,Rock,1842065,2024-06-17,Monday,Global
+38,Track 166,Artist 19,R&B,2481966,2024-06-24,Monday,United States
+39,Track 126,Artist 10,R&B,949705,2024-06-13,Thursday,Brazil
+39,Track 49,Artist 42,EDM,4489865,2024-06-21,Friday,Japan
+40,Track 127,Artist 12,Blues,895240,2024-06-17,Monday,United States
+40,Track 59,Artist 32,Rock,4364004,2024-06-27,Thursday,UK
+40,Track 185,Artist 42,Jazz,1212671,2024-06-10,Monday,Global
+40,Track 150,Artist 75,Hip Hop,4002898,2024-06-18,Tuesday,Germany
+41,Track 86,Artist 53,Hip Hop,2581777,2024-06-30,Sunday,Germany
+41,Track 3,Artist 60,EDM,2912829,2024-06-22,Saturday,Japan
+41,Track 150,Artist 62,Blues,4718214,2024-06-02,Sunday,Japan
+41,Track 141,Artist 70,Rock,2935735,2024-06-03,Monday,Germany
+42,Track 70,Artist 25,Hip Hop,1444949,2024-06-15,Saturday,UK
+42,Track 105,Artist 80,Blues,1796487,2024-06-18,Tuesday,India
+44,Track 126,Artist 93,R&B,4615414,2024-06-27,Thursday,France
+45,Track 61,Artist 76,EDM,3215991,2024-06-12,Wednesday,Global
+46,Track 51,Artist 23,Country,1782364,2024-06-09,Sunday,United States
+46,Track 50,Artist 38,Jazz,2408267,2024-06-04,Tuesday,UK
+48,Track 46,Artist 5,Jazz,3830231,2024-06-29,Saturday,France
+48,Track 121,Artist 62,Pop,4194920,2024-06-10,Monday,UK
+49,Track 87,Artist 14,Hip Hop,2585880,2024-06-24,Monday,India
+49,Track 86,Artist 39,R&B,628628,2024-06-28,Friday,India
+49,Track 63,Artist 59,EDM,1713344,2024-06-16,Sunday,Canada
+49,Track 139,Artist 60,Rock,3966571,2024-06-22,Saturday,Global
+49,Track 71,Artist 72,Blues,585153,2024-06-29,Saturday,Japan
+49,Track 188,Artist 72,Jazz,4582495,2024-07-01,Monday,Brazil
+49,Track 97,Artist 87,Pop,831748,2024-06-09,Sunday,United States
+50,Track 47,Artist 28,Country,3366658,2024-06-10,Monday,France
+51,Track 96,Artist 44,Jazz,3566928,2024-06-13,Thursday,Brazil
+52,Track 129,Artist 68,EDM,4011981,2024-06-13,Thursday,Brazil
+52,Track 55,Artist 79,R&B,2895592,2024-06-15,Saturday,France
+53,Track 139,Artist 60,Pop,3987767,2024-06-11,Tuesday,Global
+53,Track 158,Artist 99,Jazz,631246,2024-06-14,Friday,India
+54,Track 145,Artist 27,Blues,1075543,2024-06-05,Wednesday,Japan
+54,Track 79,Artist 47,Jazz,834662,2024-06-02,Sunday,UK
+54,Track 195,Artist 76,EDM,2320466,2024-06-26,Wednesday,France
+55,Track 13,Artist 34,Blues,3680153,2024-06-06,Thursday,UK
+56,Track 2,Artist 11,Pop,659416,2024-06-20,Thursday,Germany
+56,Track 163,Artist 4,Rock,1269719,2024-06-24,Monday,Japan
+57,Track 132,Artist 19,Rock,4169785,2024-06-29,Saturday,United States
+57,Track 164,Artist 38,Pop,3583181,2024-06-04,Tuesday,Australia
+57,Track 21,Artist 51,Hip Hop,3102771,2024-06-17,Monday,UK
+57,Track 159,Artist 72,Blues,3251516,2024-06-01,Saturday,Australia
+57,Track 192,Artist 95,Country,2350012,2024-06-18,Tuesday,France
+58,Track 29,Artist 4,Pop,2807113,2024-06-21,Friday,India
+58,Track 194,Artist 69,Jazz,4472163,2024-06-06,Thursday,India
+59,Track 52,Artist 59,EDM,3433147,2024-06-08,Saturday,Germany
+59,Track 159,Artist 9,Rock,2469395,2024-06-02,Sunday,Germany
+60,Track 166,Artist 8,Rock,1250450,2024-06-10,Monday,Australia
+62,Track 132,Artist 72,Rock,1390735,2024-06-12,Wednesday,UK
+62,Track 68,Artist 85,Jazz,1181049,2024-06-07,Friday,Brazil
+63,Track 63,Artist 12,Rock,2839819,2024-06-11,Tuesday,France
+63,Track 153,Artist 3,Jazz,924283,2024-06-21,Friday,UK
+63,Track 85,Artist 30,Pop,3686326,2024-06-07,Friday,Australia
+64,Track 94,Artist 51,Hip Hop,3137256,2024-06-17,Monday,Germany
+64,Track 130,Artist 83,Country,1947529,2024-06-03,Monday,Global
+64,Track 200,Artist 84,EDM,837709,2024-06-03,Monday,Global
+65,Track 71,Artist 19,Hip Hop,1590453,2024-06-01,Saturday,Japan
+65,Track 10,Artist 59,R&B,1238699,2024-06-18,Tuesday,UK
+65,Track 25,Artist 72,Jazz,3742735,2024-06-11,Tuesday,Germany
+65,Track 98,Artist 77,Hip Hop,4426287,2024-06-13,Thursday,Japan
+65,Track 111,Artist 95,Jazz,3203829,2024-06-29,Saturday,Australia
+66,Track 60,Artist 60,Pop,2630516,2024-06-05,Wednesday,France
+67,Track 145,Artist 29,Pop,1724088,2024-06-02,Sunday,Global
+67,Track 169,Artist 75,EDM,4885419,2024-06-14,Friday,UK
+67,Track 41,Artist 96,Rock,4481857,2024-06-29,Saturday,France
+68,Track 26,Artist 10,Rock,2288067,2024-06-19,Wednesday,Japan
+68,Track 8,Artist 11,Pop,881361,2024-06-27,Thursday,Australia
+68,Track 25,Artist 46,Rock,3385309,2024-06-13,Thursday,Australia
+68,Track 102,Artist 83,Rock,4349128,2024-06-16,Sunday,Brazil
+68,Track 172,Artist 92,R&B,3135565,2024-06-07,Friday,India
+69,Track 124,Artist 60,Country,4153863,2024-06-25,Tuesday,Australia
+70,Track 178,Artist 35,EDM,742876,2024-06-27,Thursday,Brazil
+70,Track 139,Artist 47,EDM,4953112,2024-06-26,Wednesday,Japan
+70,Track 194,Artist 80,Jazz,917438,2024-06-06,Thursday,United States
+71,Track 156,Artist 19,Blues,1050982,2024-06-11,Tuesday,Brazil
+71,Track 48,Artist 25,Rock,2315165,2024-06-23,Sunday,France
+71,Track 134,Artist 29,R&B,3969194,2024-06-22,Saturday,Germany
+71,Track 166,Artist 46,Rock,1007930,2024-06-29,Saturday,Canada
+71,Track 154,Artist 66,R&B,1645114,2024-06-30,Sunday,United States
+71,Track 4,Artist 91,Blues,4980649,2024-06-10,Monday,Brazil
+72,Track 85,Artist 10,Rock,4813054,2024-06-28,Friday,India
+72,Track 115,Artist 18,Pop,4038999,2024-06-18,Tuesday,Brazil
+72,Track 41,Artist 90,Country,4045146,2024-06-26,Wednesday,UK
+73,Track 30,Artist 14,Pop,1803991,2024-06-09,Sunday,Germany
+73,Track 90,Artist 9,Jazz,2549206,2024-06-05,Wednesday,UK
+73,Track 151,Artist 98,Jazz,4900973,2024-06-24,Monday,Australia
+74,Track 198,Artist 19,Jazz,2936493,2024-07-01,Monday,Global
+74,Track 86,Artist 19,Pop,1654269,2024-06-21,Friday,Global
+74,Track 104,Artist 71,Country,503405,2024-06-10,Monday,Germany
+74,Track 171,Artist 97,Jazz,4047851,2024-06-28,Friday,Global
+76,Track 149,Artist 47,Hip Hop,1602362,2024-06-02,Sunday,United States
+76,Track 61,Artist 49,Rock,3511167,2024-06-04,Tuesday,Australia
+76,Track 197,Artist 83,EDM,3353598,2024-06-09,Sunday,United States
+76,Track 35,Artist 9,Country,4339294,2024-06-06,Thursday,Global
+77,Track 64,Artist 36,R&B,3003992,2024-06-07,Friday,India
+77,Track 192,Artist 38,Jazz,814289,2024-06-30,Sunday,Global
+78,Track 15,Artist 16,Country,4846155,2024-06-17,Monday,Brazil
+78,Track 30,Artist 18,Hip Hop,880396,2024-06-14,Friday,Global
+78,Track 115,Artist 97,Rock,2739710,2024-06-08,Saturday,UK
+79,Track 126,Artist 3,Jazz,1438414,2024-06-11,Tuesday,UK
+79,Track 128,Artist 66,Pop,4415929,2024-06-06,Thursday,France
+80,Track 12,Artist 26,Rock,851532,2024-06-07,Friday,UK
+80,Track 192,Artist 92,Rock,1460771,2024-07-01,Monday,Brazil
+81,Track 187,Artist 13,R&B,3121845,2024-06-14,Friday,Canada
+81,Track 34,Artist 86,Country,3016557,2024-06-13,Thursday,France
+82,Track 13,Artist 45,Rock,3697356,2024-06-16,Sunday,Japan
+82,Track 74,Artist 91,Country,2238772,2024-06-25,Tuesday,France
+83,Track 122,Artist 62,Country,2173157,2024-06-30,Sunday,Germany
+84,Track 178,Artist 39,Jazz,742827,2024-06-06,Thursday,Global
+84,Track 164,Artist 52,R&B,4087834,2024-06-28,Friday,Japan
+84,Track 77,Artist 65,Pop,3094467,2024-06-29,Saturday,Canada
+84,Track 39,Artist 78,Hip Hop,4824375,2024-06-15,Saturday,Brazil
+85,Track 7,Artist 85,R&B,2120090,2024-06-08,Saturday,Canada
+85,Track 83,Artist 86,Pop,1377447,2024-06-11,Tuesday,Brazil
+87,Track 112,Artist 63,Rock,743477,2024-06-09,Sunday,Canada
+87,Track 103,Artist 96,Blues,4188778,2024-06-14,Friday,Canada
+88,Track 81,Artist 23,Pop,4355937,2024-06-13,Thursday,Japan
+89,Track 70,Artist 28,Pop,4797872,2024-06-14,Friday,United States
+89,Track 192,Artist 3,Hip Hop,3495520,2024-06-09,Sunday,United States
+89,Track 174,Artist 70,Rock,3685105,2024-06-19,Wednesday,Canada
+90,Track 184,Artist 55,R&B,1897917,2024-06-20,Thursday,France
+90,Track 136,Artist 66,EDM,2126582,2024-06-04,Tuesday,UK
+91,Track 74,Artist 100,Jazz,2430372,2024-06-16,Sunday,Australia
+91,Track 84,Artist 24,Jazz,4589865,2024-06-16,Sunday,India
+91,Track 85,Artist 86,Jazz,1525350,2024-06-18,Tuesday,Canada
+93,Track 97,Artist 11,Jazz,2959357,2024-06-30,Sunday,Australia
+93,Track 109,Artist 66,R&B,3535234,2024-06-22,Saturday,Global
+93,Track 171,Artist 86,Jazz,1218181,2024-06-06,Thursday,Japan
+94,Track 164,Artist 8,Rock,1129490,2024-06-09,Sunday,Canada
+94,Track 58,Artist 87,Rock,3833729,2024-06-25,Tuesday,Japan
+95,Track 168,Artist 43,Jazz,2791907,2024-06-02,Sunday,United States
+95,Track 146,Artist 5,Blues,1787132,2024-07-01,Monday,France
+95,Track 72,Artist 59,Hip Hop,3560434,2024-06-13,Thursday,Brazil
+95,Track 108,Artist 59,Rock,3359642,2024-06-13,Thursday,Brazil
+96,Track 100,Artist 61,Pop,865193,2024-06-01,Saturday,Canada
+97,Track 107,Artist 53,Rock,1751728,2024-06-23,Sunday,Germany
+97,Track 197,Artist 80,Jazz,1599319,2024-06-11,Tuesday,Australia
+98,Track 197,Artist 18,Pop,4026251,2024-06-06,Thursday,UK
+98,Track 108,Artist 50,EDM,663845,2024-06-27,Thursday,Australia
+98,Track 196,Artist 54,Rock,2393200,2024-06-18,Tuesday,Japan
+98,Track 77,Artist 60,Rock,4057843,2024-06-01,Saturday,Japan
+98,Track 95,Artist 87,Jazz,2699169,2024-06-15,Saturday,Australia
+99,Track 61,Artist 100,Jazz,3572985,2024-06-03,Monday,UK
+99,Track 83,Artist 32,Rock,557295,2024-06-16,Sunday,Germany
+100,Track 107,Artist 72,Blues,4945893,2024-06-14,Friday,Brazil
+101,Track 90,Artist 16,R&B,1997145,2024-06-21,Friday,Japan
+102,Track 157,Artist 12,Pop,1051535,2024-06-05,Wednesday,Germany
+102,Track 59,Artist 65,Rock,3470969,2024-06-23,Sunday,United States
+103,Track 15,Artist 30,Country,769276,2024-06-25,Tuesday,UK
+103,Track 28,Artist 32,Pop,4154719,2024-06-14,Friday,Australia
+103,Track 196,Artist 52,Country,3569705,2024-06-12,Wednesday,Global
+103,Track 59,Artist 53,EDM,3343164,2024-06-29,Saturday,France
+103,Track 181,Artist 7,Pop,2552978,2024-06-22,Saturday,Global
+104,Track 5,Artist 12,Pop,2968226,2024-06-26,Wednesday,India
+104,Track 20,Artist 41,Jazz,4101097,2024-06-30,Sunday,Australia
+104,Track 164,Artist 54,Jazz,2928629,2024-06-23,Sunday,United States
+104,Track 187,Artist 7,Pop,1325588,2024-06-15,Saturday,Global
+105,Track 142,Artist 10,Blues,1813090,2024-06-06,Thursday,Global
+105,Track 126,Artist 12,Hip Hop,4442732,2024-06-21,Friday,UK
+105,Track 181,Artist 28,Hip Hop,1038790,2024-06-05,Wednesday,Canada
+105,Track 94,Artist 48,Rock,2873083,2024-06-06,Thursday,Canada
+105,Track 18,Artist 61,Hip Hop,766211,2024-06-02,Sunday,Germany
+106,Track 82,Artist 27,Blues,3609698,2024-06-27,Thursday,UK
+106,Track 169,Artist 56,Blues,3472063,2024-06-04,Tuesday,Canada
+107,Track 158,Artist 46,Jazz,2517999,2024-06-01,Saturday,Australia
+107,Track 15,Artist 59,Jazz,1606829,2024-06-15,Saturday,Japan
+107,Track 122,Artist 79,Pop,1110927,2024-06-08,Saturday,France
+107,Track 190,Artist 93,Rock,812880,2024-06-18,Tuesday,Brazil
+108,Track 179,Artist 38,EDM,1567767,2024-06-13,Thursday,India
+108,Track 13,Artist 38,Jazz,3722482,2024-06-04,Tuesday,Australia
+108,Track 2,Artist 46,R&B,3004944,2024-06-16,Sunday,Canada
+108,Track 7,Artist 72,EDM,2167971,2024-06-20,Thursday,Japan
+109,Track 189,Artist 14,Hip Hop,1229295,2024-06-05,Wednesday,Australia
+110,Track 148,Artist 31,Rock,1704409,2024-06-17,Monday,Germany
+110,Track 8,Artist 8,Jazz,4517991,2024-06-21,Friday,Canada
+110,Track 64,Artist 96,Jazz,2704036,2024-06-05,Wednesday,Australia
+111,Track 15,Artist 38,Jazz,3507008,2024-06-26,Wednesday,UK
+111,Track 4,Artist 54,Pop,4612109,2024-06-11,Tuesday,United States
+111,Track 76,Artist 59,Hip Hop,4740869,2024-06-17,Monday,Australia
+111,Track 200,Artist 71,R&B,2026417,2024-06-29,Saturday,Brazil
+111,Track 22,Artist 94,Hip Hop,4060961,2024-06-09,Sunday,United States
+111,Track 190,Artist 95,Pop,2152850,2024-06-24,Monday,UK
+112,Track 114,Artist 36,Pop,2022441,2024-06-21,Friday,Australia
+112,Track 93,Artist 82,EDM,4356573,2024-07-01,Monday,Brazil
+112,Track 11,Artist 94,Country,3457481,2024-06-15,Saturday,Australia
+113,Track 53,Artist 35,Jazz,1599018,2024-06-02,Sunday,Germany
+113,Track 160,Artist 42,Jazz,3151965,2024-06-21,Friday,Brazil
+113,Track 161,Artist 83,Pop,830700,2024-06-04,Tuesday,Germany
+114,Track 39,Artist 22,Rock,3252450,2024-06-18,Tuesday,Japan
+114,Track 72,Artist 5,Country,3608230,2024-06-14,Friday,India
+114,Track 170,Artist 55,Blues,4574025,2024-06-15,Saturday,Australia
+114,Track 24,Artist 56,Rock,1325800,2024-06-24,Monday,United States
+114,Track 111,Artist 75,Rock,3203222,2024-06-07,Friday,France
+115,Track 186,Artist 39,Rock,4607400,2024-06-10,Monday,Brazil
+115,Track 185,Artist 65,Rock,4079760,2024-06-27,Thursday,Japan
+115,Track 84,Artist 85,EDM,2980007,2024-06-03,Monday,Germany
+115,Track 62,Artist 89,Hip Hop,4493758,2024-06-25,Tuesday,France
+115,Track 121,Artist 90,Hip Hop,1664277,2024-06-30,Sunday,France
+116,Track 180,Artist 15,Pop,2303744,2024-06-04,Tuesday,Canada
+116,Track 66,Artist 27,Pop,3270446,2024-06-08,Saturday,United States
+116,Track 22,Artist 98,Rock,1844797,2024-06-10,Monday,Germany
+117,Track 155,Artist 14,Blues,3310536,2024-06-19,Wednesday,Germany
+118,Track 6,Artist 12,Hip Hop,3798754,2024-06-16,Sunday,Japan
+118,Track 190,Artist 6,Rock,4159275,2024-06-28,Friday,Global
+118,Track 187,Artist 85,Rock,4874249,2024-06-02,Sunday,Germany
+119,Track 7,Artist 11,Jazz,4095464,2024-06-22,Saturday,Brazil
+119,Track 64,Artist 16,R&B,4329079,2024-06-18,Tuesday,Brazil
+119,Track 91,Artist 65,Blues,1122356,2024-06-02,Sunday,Germany
+119,Track 44,Artist 69,EDM,2553622,2024-06-21,Friday,Brazil
+119,Track 24,Artist 79,Hip Hop,4753593,2024-06-21,Friday,Canada
+120,Track 178,Artist 31,Jazz,1021136,2024-06-12,Wednesday,United States
+120,Track 146,Artist 37,Country,4183886,2024-06-27,Thursday,United States
+121,Track 180,Artist 14,Pop,3708992,2024-06-26,Wednesday,Global
+121,Track 164,Artist 48,Jazz,1408872,2024-06-27,Thursday,India
+122,Track 186,Artist 89,Rock,723532,2024-06-10,Monday,Australia
+124,Track 16,Artist 21,R&B,4187678,2024-06-23,Sunday,Canada
+124,Track 61,Artist 22,Country,3909248,2024-06-28,Friday,France
+124,Track 117,Artist 39,Country,2171153,2024-06-09,Sunday,Canada
+124,Track 128,Artist 81,Pop,2929941,2024-06-01,Saturday,Germany
+124,Track 91,Artist 87,EDM,2717630,2024-06-18,Tuesday,Australia
+124,Track 131,Artist 91,Pop,2793654,2024-06-10,Monday,Canada
+125,Track 64,Artist 82,Jazz,2826256,2024-06-25,Tuesday,Japan
+127,Track 32,Artist 26,Jazz,1664983,2024-06-08,Saturday,India
+127,Track 162,Artist 74,Hip Hop,2131040,2024-06-29,Saturday,Canada
+128,Track 75,Artist 42,R&B,1506501,2024-06-09,Sunday,Global
+129,Track 41,Artist 59,R&B,527223,2024-06-14,Friday,Germany
+129,Track 78,Artist 90,Rock,3876486,2024-06-23,Sunday,Germany
+130,Track 8,Artist 12,Pop,2334068,2024-06-02,Sunday,India
+130,Track 80,Artist 46,Blues,1369064,2024-06-20,Thursday,Australia
+130,Track 140,Artist 68,Pop,4643237,2024-06-21,Friday,Brazil
+131,Track 175,Artist 27,Rock,4600586,2024-06-04,Tuesday,United States
+131,Track 77,Artist 76,EDM,3321705,2024-06-24,Monday,Japan
+131,Track 182,Artist 90,Jazz,1960381,2024-06-23,Sunday,UK
+132,Track 92,Artist 40,Jazz,2694137,2024-06-21,Friday,UK
+132,Track 17,Artist 61,Country,4260405,2024-06-24,Monday,UK
+133,Track 30,Artist 4,Pop,2060684,2024-07-01,Monday,France
+133,Track 42,Artist 42,Rock,2391381,2024-06-06,Thursday,UK
+133,Track 128,Artist 89,Pop,4673528,2024-06-06,Thursday,UK
+133,Track 36,Artist 92,Pop,3293747,2024-06-02,Sunday,France
+133,Track 196,Artist 97,Blues,1969606,2024-06-02,Sunday,France
+135,Track 133,Artist 27,Hip Hop,3226713,2024-06-05,Wednesday,France
+136,Track 122,Artist 71,Pop,1885185,2024-06-22,Saturday,Germany
+137,Track 111,Artist 23,Country,1583688,2024-06-24,Monday,Canada
+137,Track 199,Artist 37,Rock,3693222,2024-06-11,Tuesday,France
+137,Track 31,Artist 73,Pop,844512,2024-06-20,Thursday,UK
+137,Track 193,Artist 96,Pop,4265880,2024-06-10,Monday,India
+138,Track 192,Artist 62,Blues,2295051,2024-06-09,Sunday,India
+138,Track 188,Artist 67,R&B,2765615,2024-06-06,Thursday,Australia
+138,Track 127,Artist 77,EDM,4447568,2024-06-10,Monday,Germany
+139,Track 61,Artist 35,Blues,3317293,2024-06-10,Monday,UK
+139,Track 137,Artist 49,Country,3156346,2024-06-28,Friday,France
+139,Track 12,Artist 55,Pop,3390117,2024-06-03,Monday,United States
+140,Track 86,Artist 18,EDM,871914,2024-06-25,Tuesday,UK
+140,Track 61,Artist 47,Rock,1333446,2024-06-15,Saturday,UK
+142,Track 181,Artist 27,Rock,3827190,2024-06-20,Thursday,India
+142,Track 63,Artist 40,EDM,3595567,2024-06-23,Sunday,France
+142,Track 135,Artist 70,Blues,4755773,2024-06-03,Monday,Japan
+142,Track 93,Artist 71,Blues,3594651,2024-06-01,Saturday,France
+142,Track 146,Artist 72,Rock,2132887,2024-06-02,Sunday,UK
+142,Track 62,Artist 91,Blues,1828572,2024-06-20,Thursday,Germany
+143,Track 143,Artist 76,Country,1969123,2024-06-02,Sunday,Canada
+143,Track 62,Artist 93,Pop,3909366,2024-06-03,Monday,France
+144,Track 96,Artist 17,Rock,1003156,2024-06-24,Monday,Australia
+144,Track 182,Artist 19,Jazz,4384136,2024-06-10,Monday,Global
+145,Track 137,Artist 4,Jazz,3805281,2024-06-20,Thursday,Australia
+145,Track 115,Artist 68,R&B,3534871,2024-06-17,Monday,United States
+146,Track 173,Artist 31,Hip Hop,3887114,2024-06-03,Monday,United States
+146,Track 114,Artist 39,Rock,4097285,2024-06-15,Saturday,Germany
+146,Track 98,Artist 87,R&B,1959847,2024-06-22,Saturday,Australia
+147,Track 143,Artist 48,Hip Hop,1463727,2024-06-12,Wednesday,Germany
+147,Track 193,Artist 63,Hip Hop,1360567,2024-06-28,Friday,Global
+147,Track 16,Artist 71,Country,4740332,2024-06-04,Tuesday,India
+147,Track 142,Artist 95,Pop,844123,2024-06-19,Wednesday,France
+148,Track 125,Artist 28,Jazz,1609912,2024-06-22,Saturday,Australia
+148,Track 24,Artist 30,Jazz,674025,2024-06-01,Saturday,Germany
+149,Track 102,Artist 33,Blues,525295,2024-06-01,Saturday,India
+149,Track 24,Artist 65,Jazz,1914620,2024-06-18,Tuesday,Australia
+150,Track 168,Artist 100,Rock,2408770,2024-06-09,Sunday,Global
+150,Track 98,Artist 80,Hip Hop,2520226,2024-06-28,Friday,France
+150,Track 85,Artist 87,Country,1419429,2024-06-12,Wednesday,Canada
+151,Track 58,Artist 9,R&B,3336067,2024-06-08,Saturday,Global
+152,Track 97,Artist 51,Jazz,2163710,2024-06-30,Sunday,United States
+152,Track 121,Artist 57,Jazz,3040241,2024-06-03,Monday,Germany
+153,Track 131,Artist 11,Pop,2058812,2024-06-02,Sunday,United States
+153,Track 56,Artist 30,Pop,3256157,2024-06-19,Wednesday,Brazil
+153,Track 163,Artist 75,Pop,3227853,2024-06-20,Thursday,Canada
+154,Track 139,Artist 100,Rock,4948929,2024-06-06,Thursday,Global
+154,Track 75,Artist 30,Pop,3175158,2024-06-17,Monday,Australia
+154,Track 26,Artist 77,Blues,781658,2024-06-03,Monday,France
+156,Track 112,Artist 45,Jazz,3131316,2024-06-20,Thursday,Canada
+156,Track 197,Artist 48,Rock,1907517,2024-06-09,Sunday,Australia
+156,Track 54,Artist 86,Pop,2739572,2024-06-12,Wednesday,United States
+157,Track 47,Artist 22,Pop,1968588,2024-06-26,Wednesday,United States
+157,Track 87,Artist 38,EDM,2120354,2024-06-24,Monday,Brazil
+157,Track 113,Artist 57,Rock,4896205,2024-06-23,Sunday,Japan
+157,Track 136,Artist 72,Country,3161688,2024-06-22,Saturday,France
+157,Track 94,Artist 87,Blues,2492547,2024-06-14,Friday,France
+158,Track 142,Artist 36,Jazz,1550004,2024-07-01,Monday,Germany
+158,Track 157,Artist 41,Pop,1863165,2024-06-30,Sunday,Canada
+158,Track 40,Artist 54,R&B,1330653,2024-06-24,Monday,France
+158,Track 28,Artist 58,Rock,4726505,2024-06-19,Wednesday,India
+160,Track 193,Artist 10,Rock,578143,2024-06-30,Sunday,France
+160,Track 20,Artist 61,EDM,2723172,2024-06-05,Wednesday,UK
+161,Track 163,Artist 25,Blues,2602409,2024-06-08,Saturday,Brazil
+161,Track 16,Artist 79,Jazz,1332431,2024-06-20,Thursday,India
+162,Track 165,Artist 23,R&B,4397539,2024-06-11,Tuesday,France
+162,Track 179,Artist 63,Jazz,1518595,2024-06-29,Saturday,Global
+162,Track 128,Artist 77,Rock,4996745,2024-06-27,Thursday,Global
+163,Track 73,Artist 11,Rock,2602229,2024-06-29,Saturday,India
+163,Track 200,Artist 22,Pop,1140716,2024-06-11,Tuesday,Japan
+164,Track 46,Artist 65,Country,1392638,2024-06-25,Tuesday,Germany
+164,Track 14,Artist 71,Pop,2950619,2024-06-02,Sunday,Brazil
+164,Track 54,Artist 99,Hip Hop,3994583,2024-06-21,Friday,Australia
+165,Track 148,Artist 10,Pop,1551317,2024-06-14,Friday,UK
+165,Track 155,Artist 18,R&B,2597178,2024-06-26,Wednesday,Global
+165,Track 32,Artist 59,Jazz,1269012,2024-06-07,Friday,India
+165,Track 195,Artist 75,Rock,4265690,2024-06-19,Wednesday,Australia
+165,Track 18,Artist 99,Country,2841470,2024-06-09,Sunday,UK
+166,Track 170,Artist 48,Hip Hop,1078451,2024-06-14,Friday,Japan
+166,Track 180,Artist 95,EDM,4915707,2024-06-22,Saturday,United States
+167,Track 139,Artist 7,Pop,3435680,2024-06-24,Monday,India
+167,Track 17,Artist 82,Pop,4394558,2024-06-21,Friday,Germany
+168,Track 36,Artist 1,R&B,1824905,2024-06-25,Tuesday,Canada
+168,Track 183,Artist 11,Jazz,3405507,2024-07-01,Monday,France
+168,Track 170,Artist 19,Pop,3434509,2024-06-19,Wednesday,Germany
+168,Track 117,Artist 2,Pop,1709263,2024-06-17,Monday,Canada
+168,Track 17,Artist 28,Rock,3139709,2024-06-09,Sunday,India
+168,Track 113,Artist 70,Jazz,3037697,2024-06-06,Thursday,Australia
+168,Track 186,Artist 74,Jazz,595929,2024-06-19,Wednesday,Germany
+169,Track 110,Artist 72,Pop,720233,2024-06-08,Saturday,Australia
+170,Track 169,Artist 11,Jazz,2880572,2024-06-06,Thursday,Japan
+170,Track 191,Artist 61,Blues,3697998,2024-06-11,Tuesday,Canada
+170,Track 198,Artist 70,Rock,4916867,2024-06-17,Monday,Global
+170,Track 50,Artist 91,Blues,1083470,2024-06-19,Wednesday,Global
+170,Track 49,Artist 93,Jazz,1446609,2024-06-09,Sunday,Global
+171,Track 29,Artist 37,Hip Hop,4582171,2024-06-14,Friday,Japan
+171,Track 96,Artist 54,Pop,4449592,2024-06-20,Thursday,Japan
+172,Track 177,Artist 26,Pop,3114865,2024-06-24,Monday,Canada
+173,Track 159,Artist 43,Jazz,1283388,2024-06-21,Friday,India
+173,Track 102,Artist 84,R&B,1173733,2024-06-23,Sunday,UK
+174,Track 149,Artist 4,Jazz,3116887,2024-06-04,Tuesday,Australia
+174,Track 80,Artist 61,Hip Hop,2127525,2024-06-08,Saturday,UK
+175,Track 63,Artist 68,Blues,3956540,2024-06-05,Wednesday,Australia
+175,Track 44,Artist 68,Jazz,3689267,2024-06-16,Sunday,Brazil
+175,Track 85,Artist 92,EDM,4462811,2024-06-14,Friday,United States
+176,Track 112,Artist 1,Blues,4861407,2024-06-23,Sunday,Japan
+176,Track 161,Artist 32,Blues,1354810,2024-06-23,Sunday,Germany
+176,Track 54,Artist 92,Hip Hop,3376288,2024-06-20,Thursday,India
+177,Track 114,Artist 45,R&B,3009487,2024-06-03,Monday,Canada
+177,Track 41,Artist 52,Blues,4715447,2024-06-10,Monday,Germany
+177,Track 81,Artist 54,Blues,1770297,2024-06-15,Saturday,Canada
+178,Track 36,Artist 20,Pop,2439961,2024-06-03,Monday,Canada
+179,Track 190,Artist 16,Country,4517479,2024-07-01,Monday,India
+179,Track 97,Artist 59,Jazz,3199264,2024-06-18,Tuesday,India
+179,Track 68,Artist 59,Rock,2892843,2024-06-13,Thursday,Canada
+180,Track 172,Artist 15,Country,2328419,2024-06-16,Sunday,France
+180,Track 67,Artist 44,Jazz,2845945,2024-06-26,Wednesday,Australia
+180,Track 89,Artist 55,R&B,3274878,2024-06-17,Monday,UK
+181,Track 144,Artist 16,EDM,2695941,2024-06-13,Thursday,Germany
+181,Track 106,Artist 65,Pop,4456113,2024-06-07,Friday,Global
+182,Track 170,Artist 51,Hip Hop,1581724,2024-06-23,Sunday,Australia
+182,Track 23,Artist 88,Rock,3180896,2024-06-15,Saturday,UK
+183,Track 35,Artist 10,Country,4292008,2024-06-04,Tuesday,Brazil
+183,Track 62,Artist 36,Jazz,4189918,2024-06-21,Friday,United States
+183,Track 58,Artist 4,Blues,3173322,2024-06-12,Wednesday,United States
+183,Track 16,Artist 58,R&B,1368236,2024-07-01,Monday,UK
+184,Track 53,Artist 44,Country,1705180,2024-06-15,Saturday,UK
+184,Track 31,Artist 83,Hip Hop,1791603,2024-06-15,Saturday,France
+185,Track 171,Artist 43,Hip Hop,3133315,2024-06-03,Monday,United States
+186,Track 145,Artist 8,Jazz,4378710,2024-06-15,Saturday,Germany
+187,Track 28,Artist 56,R&B,1623527,2024-06-01,Saturday,Germany
+188,Track 15,Artist 31,Jazz,1160662,2024-06-08,Saturday,United States
+189,Track 173,Artist 28,Rock,4788038,2024-06-15,Saturday,France
+189,Track 46,Artist 53,Pop,707923,2024-06-26,Wednesday,Brazil
+189,Track 188,Artist 85,Pop,1369595,2024-06-08,Saturday,Australia
+190,Track 198,Artist 17,R&B,2697440,2024-06-11,Tuesday,Brazil
+191,Track 176,Artist 100,Jazz,911412,2024-06-19,Wednesday,Australia
+191,Track 22,Artist 12,Rock,4122842,2024-06-03,Monday,United States
+191,Track 117,Artist 48,EDM,4015890,2024-06-13,Thursday,Australia
+192,Track 16,Artist 22,R&B,3080434,2024-06-03,Monday,Australia
+192,Track 43,Artist 33,R&B,4542032,2024-06-27,Thursday,Germany
+192,Track 35,Artist 62,Hip Hop,1785013,2024-06-08,Saturday,France
+193,Track 84,Artist 44,Pop,3680341,2024-06-15,Saturday,Germany
+193,Track 167,Artist 70,R&B,623797,2024-06-02,Sunday,United States
+193,Track 3,Artist 88,Pop,1460929,2024-06-18,Tuesday,Japan
+194,Track 156,Artist 55,Hip Hop,2276692,2024-06-28,Friday,Japan
+194,Track 198,Artist 81,Rock,4644954,2024-07-01,Monday,France
+194,Track 33,Artist 94,Country,2368060,2024-06-17,Monday,Global
+195,Track 188,Artist 45,Rock,3844677,2024-06-11,Tuesday,Brazil
+195,Track 128,Artist 60,Jazz,1327185,2024-06-29,Saturday,France
+195,Track 178,Artist 64,EDM,2917746,2024-06-14,Friday,Canada
+195,Track 115,Artist 76,R&B,2833632,2024-06-08,Saturday,Global
+195,Track 93,Artist 80,Rock,4681663,2024-06-17,Monday,France
+196,Track 156,Artist 26,Rock,1782108,2024-06-17,Monday,UK
+196,Track 53,Artist 39,EDM,2271959,2024-06-01,Saturday,Brazil
+196,Track 50,Artist 41,Rock,1502897,2024-06-24,Monday,Japan
+196,Track 41,Artist 42,Blues,3123242,2024-06-08,Saturday,India
+196,Track 124,Artist 45,Rock,3288708,2024-06-18,Tuesday,Japan
+196,Track 19,Artist 50,Rock,4730001,2024-06-10,Monday,France
+196,Track 141,Artist 84,EDM,3331694,2024-06-16,Sunday,Germany
+197,Track 185,Artist 62,Hip Hop,4909854,2024-06-23,Sunday,Canada
+197,Track 70,Artist 82,R&B,2342265,2024-06-13,Thursday,UK
+200,Track 63,Artist 19,Pop,546513,2024-06-13,Thursday,United States
+200,Track 166,Artist 25,Jazz,2900072,2024-06-25,Tuesday,UK
+200,Track 147,Artist 57,Pop,4372852,2024-07-01,Monday,Germany
+200,Track 64,Artist 86,Jazz,1362295,2024-06-22,Saturday,UK
